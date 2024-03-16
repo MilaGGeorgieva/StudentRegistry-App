@@ -1,0 +1,1 @@
+[![Build and test](https://github.com/MilaGGeorgieva/StudentRegistry-App/actions/workflows/myfirstpipeline.yml/badge.svg)](https://github.com/MilaGGeorgieva/StudentRegistry-App/actions/workflows/myfirstpipeline.yml)
